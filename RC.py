@@ -29,7 +29,7 @@ def main():
 
     plt.figure(figsize=(10, 6))
     plt.errorbar(tempi, voltaggi, yerr=err_voltaggi, fmt='o', label='Dati')
-    plt.plot(tempi, exp(tempi, V_0_fit,tau_fit), 'r-', label=f'Fit: exp \n V_0 = {V_0_fit:.3f} ± {V_0_err:.3f} \n b = {tau_fit:.3f} ± {tau_err:.3f}')
+    plt.plot(tempi, exp(tempi, V_0_fit,tau_fit), 'r-', label=f'Fit: exp \n V_0 = {V_0_fit:.3f} ± {V_0_err:.3f} \n tau = {tau_fit:.3f} ± {tau_err:.3f}')
     plt.xlabel('tempo (s)')
     plt.ylabel('voltaggio (V)')
     plt.title('Fit: y = V_0·exp(-t/tau)')
