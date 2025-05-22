@@ -1,0 +1,11 @@
+500 Hz (magari ci sono altri errori per l'oscilloscopio, guardare foto)
+misura C = 97 nF (errore dal modello FLUKE 111)
+misura R = 21.78 KOhm (idem errore)
+Tempo || Voltaggio (errore di sensibilità: 1 microsecondo e 1 V se non c'è scritto altro)
+0 || 3.90 +- 0.02 V
+200 muS || 3.58 +- 0.02
+400 || 3.26 +- 0.02
+600 || 2.98 +- 0.02
+800 || 2.74 +- 0.02
+1.00 ms (da qua in poi) || 2.46 +- 0.02
+
