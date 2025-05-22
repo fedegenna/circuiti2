@@ -1,4 +1,5 @@
 500 Hz (magari ci sono altri errori per l'oscilloscopio, guardare foto)
+La variazione di potenziale erogata (V_0 = 2.000 (*2 per guadagno) +- 0.001 V)
 misura C = 97 nF (errore dal modello FLUKE 111)
 misura R = 21.78 KOhm (idem errore)
 Tempo || Voltaggio (errore di sensibilità: 1 microsecondo e 1 V se non c'è scritto altro)
@@ -8,4 +9,26 @@ Tempo || Voltaggio (errore di sensibilità: 1 microsecondo e 1 V se non c'è scr
 600 || 2.98 +- 0.02
 800 || 2.74 +- 0.02
 1.00 ms (da qua in poi) || 2.46 +- 0.02
+1.20 || 2.22 +- 0.02
+1.40 || 2.04 +- 0.01
+1.72 || 1.74 +- 0.02
+2.04 || 1.50 +- 0.02
+2.36 || 1.28 +- 0.01
+2.64 || 1.12 +- 0.01
+3.00 || 960 mV +- 10 (da qua millivolt)
+3.40 || 800 +- 10
+3.80 || 680 +- 10
+4.20 || 560 +- 10
+4.60 || 460 +- 20
+5.00 || 380 +- 20
+5.40 || 320 +- 10
+5.80 || 260 +- 20
+6.20 || 220 +- 20
+6.60 || 200 +- 10
+7.00 || 180 +- 20
+8.00 || 100 +- 20
+9.00 || 60 +- 20 
+
+
+
 
