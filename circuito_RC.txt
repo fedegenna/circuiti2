@@ -31,5 +31,7 @@ Tempo || Voltaggio (errore di sensibilità: 1 microsecondo e 1 V se non c'è scr
 9.00 || 60 +- 20 
 
 
+per il "metodo veloce" si usa il fatto che V(tau) = 1/e * Vmax, quindi tau è da aversi circa a 1.435 V ed è circa a 2.10.
+
 
 
