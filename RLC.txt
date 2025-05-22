@@ -64,6 +64,35 @@ tempo || voltage
 870 || 460 +- 20
 986 || 340 +- 20
 
+SMORZAMENTO CRITICO:
+date le incertezze su L è ovvio che non sarà uno smorzamento esattamente critico, bisognerebbe fissare R = 2radq(L/C), che, supponendo L dal fit di sopra di ha R circa 1500 Ohm. Vedendo "manualmente" la transizione tra sotto e sovra dall'oscilloscopio variando di cento in cento è ottimale una resistenza
+R = 1400 Ohm
+da fare differenza con V_0 = 10 +- 10 mV
+misure ai capi di R:
+tempo || voltaggio:
+8.0 muS || 770 +- 10 mV
+16.0 || 1.40 +- 0.02 V
+24 || 1.90 +- 0.02 V
+32 || 2.24 +- 0.02 
+40 || 2.49 +- 0.01
+48 || 2.66 +- 0.02
+56 || 2.76 +- 0.02
+64 || 2.81 +- 0.01
+68 || 2.82 +- 0.02
+72 || 2.82 +- 0.02
+76 || 2.80 +- 0.02
+84 || 2.77 +- 0.01
+92 || 2.68 +- 0.02
+100 || 2.62 +- 0.02
+116 || 2.38 +- 0.02
+140 || 2.06 +- 0.02
+180 || 1.54 +- 0.02
+224 || 1.06 +- 0.02
+280 || 640 +- 20 mV 
+320 || 440 +- 20
+380 || 260 +- 20
+436 || 150 +- 10
+
 
 
 
