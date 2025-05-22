@@ -31,5 +31,6 @@ tempo || voltaggio
 1.72 || -2 +- 4
 1.83 || 12 +- 6
 
+SOVRASMORZATO:
 
 
