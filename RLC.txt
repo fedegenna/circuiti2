@@ -32,7 +32,7 @@ tempo || voltaggio
 1.83 || 12 +- 6
 
 SOVRASMORZATO:
-R = 4.989 ( misurata da cassetta di resistenza con il multimetro quindi ha l'errore da manuale) Ohm
+R = 4.989 ( misurata da cassetta di resistenza con il multimetro quindi ha l'errore da manuale) KOhm
 misure ai capi della resistenza (da fare differenza con 20 +- 20 mV)
 tempo || voltage
 4.00 muS || 960 +- 40 mV
