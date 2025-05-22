@@ -54,6 +54,11 @@ def main():
 
     plt.tight_layout()
     plt.show()
+    C = 97
+    L=1/(C*((omega_fit**2)+(gamma_fit**2)))*1000
+    print(f"Induttanza: {L:.2f} H")
 
 if __name__ == "__main__":
     main()
+
+
