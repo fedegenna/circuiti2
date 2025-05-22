@@ -2,6 +2,7 @@
 La variazione di potenziale erogata (V_0 = 2.000 (*2 per guadagno) +- 0.001 V)
 misura C = 97 nF (errore dal modello FLUKE 111)
 misura R = 21.78 KOhm (idem errore)
+misura ai capi della resistenza :
 Tempo || Voltaggio (errore di sensibilità: 1 microsecondo e 1 V se non c'è scritto altro)
 0 || 3.90 +- 0.02 V
 200 muS || 3.58 +- 0.02
