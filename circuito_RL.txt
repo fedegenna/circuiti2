@@ -22,3 +22,4 @@ tempo || voltage: (da far differenza con V_0 = -(1.80 +- 0.04 V)) ( in Volt)
 180 || 1.80 +- 0.04
 206 || 1.84 +- 0.08 
 
+per il "metodo veloce" si usa il fatto che V(tau) = 1/e * Vmax, quindi tau è da aversi circa a -(0.46)V ossia dai dati 22 microsecondi
