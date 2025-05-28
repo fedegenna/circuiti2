@@ -1,6 +1,6 @@
 SOTTOSMORZATO
 C = 97 nF
-R = 21.9 Ohm
+R = 21.9 Ohm + 50 Omh
 100 Hz
 la resistenza interna del generatore è 
 delta V ai capi della resistenza: ( da far la differenza con V_0 = 8 +- 6 mV)
